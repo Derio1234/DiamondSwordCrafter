@@ -1,0 +1,5 @@
+name: Autodiamond
+version: '${project.version}'
+main: de.derio.autodiamond.Main
+api-version: 1.19
+authors: [ Derio ]
